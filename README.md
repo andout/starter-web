@@ -2,6 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 Dodajem liniju za primer rebaseinga.
+jos promena iz myfeature
 
 ## Purpose
 
