@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 ## Copyright
 
-2020 andout
+Vip Solutions 2020 by andout
