@@ -7,6 +7,7 @@ jos promena iz myfeature
 ## Purpose
 
 Sample website with plenty of files for demos
+DOdajem jos teksta radi probe.
 
 ## Copyright
 
