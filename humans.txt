@@ -3,7 +3,8 @@
 
 # TEAM
 
-    Ivan Zivkovic andout@mail.com andout
+    Ivan Zivkovic	andout@mail.com		andout
+    Vojin Maksimovic	vojinmax@gmail.com	vox
 
 # THANKS
 
